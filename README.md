@@ -31,11 +31,11 @@ Nesse projeto foi desenvolvido um jogo de perguntas e respostas baseado no jogo 
 - Regislaine Regis
 
 ## Tecnologias
-HTML
-CSS
-ES6
-React
-Redux
+- HTML
+- CSS
+- ES6
+- React
+- Redux
 
 ## Habilidades
 Neste projeto, fui capaz de:
